@@ -1,0 +1,11 @@
+google-api-python-client
+numpy
+pandas
+joblib
+seaborn
+matplotlib
+sentence-transformers
+isodate
+imbalanced-learn
+scikit-learn
+tensorflow
